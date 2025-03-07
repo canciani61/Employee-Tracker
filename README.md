@@ -1,4 +1,6 @@
-# Employee-Tracker
+# Employee-Tracker -
+
+
 Employee Tracker
 GIVEN a command-line application that accepts user input
 WHEN I start the application
